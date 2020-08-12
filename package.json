@@ -1,0 +1,19 @@
+{
+  "name": "rails-js-asana-dashboard",
+  "version": "1.0.0",
+  "description": "FE-vanilla-js-dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevLuDaley/FE-vanilla-js-dash.git"
+  },
+  "author": "Lu Daley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevLuDaley/FE-vanilla-js-dash/issues"
+  },
+  "homepage": "https://github.com/DevLuDaley/FE-vanilla-js-dash#readme"
+}
